@@ -85,8 +85,8 @@ insert into ExecutorGenre
 	(8, 6, 8),
 	(9, 7, 4),
 	(10, 7, 5),
-	(11, 8, 2)
-	(11, 9, 3);
+	(11, 8, 2),
+	(12, 9, 3);
 	
 insert into ExecutorAlbum
 	values 
